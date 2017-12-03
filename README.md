@@ -3,6 +3,7 @@
 ### require 
 SDL
 quicklisp
+lispbuilder-sdl
 opengl
 ubuntu
 
