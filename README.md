@@ -1,5 +1,6 @@
 # 3D 落ち物
 
+![サンプル](https://github.com/YMatoi/3dpuyo/blob/master/image.png "サンプル")
 w 回転
 a 左に移動
 s 下に落とす
