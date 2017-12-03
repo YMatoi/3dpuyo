@@ -70,10 +70,10 @@
                 :flags '(sdl:sdl-doublebuf sdl:sdl-opengl))
     (setf (sdl:frame-rate) 60)
     ;;(gl:shader-source 1 1 1 1)
-    (setf *texture0* (load-a-texture "texture/feedlike.png"))
-    (setf *texture1* (load-a-texture "texture/lisplogo_alien_256.png"))
+;;    (setf *texture0* (load-a-texture "texture/feedlike.png"))
+;;    (setf *texture1* (load-a-texture "texture/lisplogo_alien_256.png"))
     (setf *texture2* (load-a-texture "texture/wood.png"))
-    (setf *texture3* (load-a-texture "texture/Lightning.png"))
+;;    (setf *texture3* (load-a-texture "texture/Lightning.png"))
     (setf *texture4* (load-a-texture "texture/iwa.png"))
     ;; cl-opengl needs platform specific support to be able to load GL
     ;; extensions, so we need to tell it how to do so in lispbuilder-sdl
